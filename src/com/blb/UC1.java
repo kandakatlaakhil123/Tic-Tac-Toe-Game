@@ -1,5 +1,7 @@
 package com.blb;
 
 public class UC1 {
-    System.out.println("Welcome to game");
+    public static void main(String[] args) {
+        System.out.println("Tic tac toe game");
+    }
 }
